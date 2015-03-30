@@ -58,6 +58,10 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{AE2531CF-1ADF-3503-EFEC-DBDF8151902C}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{00FFACA6-1409-FD8D-96F5-65B7310749C5}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{ECB24B15-47D7-FAC9-F2D2-9B3D845C428A}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
