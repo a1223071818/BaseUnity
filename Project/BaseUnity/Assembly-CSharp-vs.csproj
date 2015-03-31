@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scrtips\ParentAndChildren.cs" />
+     <Compile Include="Assets\Scrtips\PhysicsTest.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/mini4s220/Documents/MyClass/ClassCode/for56/BaseUnity/Project/BaseUnity/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
