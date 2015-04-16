@@ -22,7 +22,7 @@ public class PhysicsTest : MonoBehaviour {
 
 	void FixedUpdate() {
 		if (Input.GetMouseButtonDown (0)) {
-			rigidbody.AddForce (Vector3.up*1000);
+			GetComponent<Rigidbody>().AddForce (Vector3.up*1000);
 		}
 	}
 
