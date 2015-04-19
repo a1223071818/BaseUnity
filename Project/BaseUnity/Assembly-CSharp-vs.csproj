@@ -46,12 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Assets\Character\CharacterMotor.cs" />
+     <Compile Include="Assets\Assets\Character\FPSInputController.cs" />
+     <Compile Include="Assets\Assets\Character\PlatformInputController.cs" />
      <Compile Include="Assets\Scrtips\AnimationController.cs" />
+     <Compile Include="Assets\Scrtips\BackgroundMusicControl.cs" />
      <Compile Include="Assets\Scrtips\BossAnimatorController.cs" />
+     <Compile Include="Assets\Scrtips\CharacterControTest.cs" />
+     <Compile Include="Assets\Scrtips\GameManager.cs" />
      <Compile Include="Assets\Scrtips\InputNavigator.cs" />
      <Compile Include="Assets\Scrtips\LoginManager.cs" />
      <Compile Include="Assets\Scrtips\ParentAndChildren.cs" />
      <Compile Include="Assets\Scrtips\PhysicsTest.cs" />
+     <Compile Include="Assets\Scrtips\PlayGamesetSound.cs" />
      <None Include="Assets\Assets\Model\FatBoss\readme.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/mini4s220/Documents/MyClass/ClassCode/for56/BaseUnity/Project/BaseUnity/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>

@@ -14,7 +14,6 @@ public class PhysicsTest : MonoBehaviour {
 		//Physics.Raycast(
 		RaycastHit hit;
 		if (Physics.Raycast (cubeTransform.position, Vector3.up, out hit,1000,rayCastMask)) {
-			Debug.Log("Current Name:  "+hit.collider.name);
 			Debug.DrawRay(cubeTransform.position, Vector3.up*1000,Color.red);
 		}
 	
