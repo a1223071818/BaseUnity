@@ -1,10 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrtips/PlayGamesetSound.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrtips/BackgroundMusicControl.cs">
     <Files>
-      <File FileName="Assets/Scrtips/PlayGamesetSound.cs" Line="8" Column="40" />
-      <File FileName="Assets/Scrtips/BackgroundMusicControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scrtips/PlayGamesetSound.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scrtips/BackgroundMusicControl.cs" Line="8" Column="45" />
       <File FileName="Assets/Scrtips/PhysicsTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scrtips/GameManager.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +15,7 @@
               <Node name="Character" expanded="True" />
             </Node>
             <Node name="Scrtips" expanded="True">
-              <Node name="PlayGamesetSound.cs" selected="True" />
+              <Node name="BackgroundMusicControl.cs" selected="True" />
             </Node>
           </Node>
         </State>

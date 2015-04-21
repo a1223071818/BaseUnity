@@ -50,6 +50,7 @@
      <Compile Include="Assets\Assets\Character\FPSInputController.cs" />
      <Compile Include="Assets\Assets\Character\PlatformInputController.cs" />
      <Compile Include="Assets\Scrtips\AnimationController.cs" />
+     <Compile Include="Assets\Scrtips\AudioManager.cs" />
      <Compile Include="Assets\Scrtips\BackgroundMusicControl.cs" />
      <Compile Include="Assets\Scrtips\BossAnimatorController.cs" />
      <Compile Include="Assets\Scrtips\CharacterControTest.cs" />
